@@ -1,0 +1,135 @@
+*{
+    font-family: sans-serif;
+    background-color: url(imagens/fundo\ \(1\).jpg);
+}
+
+.cabecalho{
+    background-color: #b22d00;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.telefone{
+    color: white;
+    font-size: 22px;
+}
+
+.menu{
+    background-color: #d9a300;
+    padding: 14px 20px;
+}
+
+.menu a{
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 15px;
+    color: black;
+}
+
+.conteudo{
+    background-color: white;
+    padding: 50px 20px 20px 20px;
+}
+
+.titulo{
+    font-size: 30px;
+}
+
+hr{
+    height: 1px;
+    border: 0;
+    background-color: black;
+}
+
+.coluna{
+    display: inline-block;
+}
+
+.linha{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+*{
+    font-family: sans-serif;
+    background-color: url(imagens/fundo\ \(1\).jpg);
+}
+
+.cabecalho{
+    background-color: #b22d00;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.telefone{
+    color: white;
+    font-size: 22px;
+}
+
+.menu{
+    background-color: #d9a300;
+    padding: 14px 20px;
+}
+
+.menu a{
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 15px;
+    color: black;
+}
+
+.conteudo{
+    background-color: white;
+    padding: 50px 20px 20px 20px;
+}
+
+.titulo{
+    font-size: 30px;
+}
+
+hr{
+    height: 1px;
+    border: 0;
+    background-color: black;
+}
+
+.coluna{
+    display: inline-block;
+}
+
+.linha{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.titulo-3 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+ 
+.contato {
+  margin-top: 30px;
+  align-items: start;
+}
+
+.contato form{
+  margin-top: 20px;
+}
+
+.contato label{
+  font-size: 13px;
+}
+
+.contato button{
+  background-color: gray;
+  border: 0;
+  padding: 5px 10px;
+  border-radius: 2px;
+  color: white;
+}
